@@ -27,5 +27,6 @@ There exist multiple githubs providing literature resources:
 - Fudenberg, D., & Levine, D. K. (1998). [_The theory of learning in games_](https://mitpress.mit.edu/9780262529242/the-theory-of-learning-in-games/) (Vol. 2). MIT Press, Cambridge, MA.
 - Hofbauer, J., & Sandholm, W. H. (2002). [On the global convergence of stochastic fictitious play](https://doi.org/10.1111/j.1468-0262.2002.00440.x). _Econometrica_, 70(6), 2265-2294.
 - Hu, J., & Wellman, M. P. (2003). [Nash Q-learning for general-sum stochastic games](https://www.jmlr.org/papers/volume4/hu03a/hu03a.pdf). _Journal of Machine Learning Research_, 4, 1039-1069.
+- Daskalakis, C., Foster, D. J., & Golowich, N. (2020). [Independent policy gradient methods for competitive reinforcement learning](https://dl.acm.org/doi/pdf/10.5555/3495724.3496188). _Advances in Neural Information Processing Systems_, 33, 5527-5540.
 - Leslie, D. S., Perkins, S., & Xu, Z. (2020). [Best-response dynamics in zero-sum stochastic games](https://doi.org/10.1016/j.jet.2020.105095). _Journal of Economic Theory_, 189, 105095.
 - Sayin, M. O., Parise, F., & Ozdaglar, A. (2022). [Fictitious play in zero-sum stochastic games](https://doi.org/10.1137/21M1426675). _SIAM Journal on Control and Optimization_, 60(4), 2095-2114.
