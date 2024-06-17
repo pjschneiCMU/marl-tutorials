@@ -14,7 +14,7 @@ Multi-Agent Reinforcement Learning
 - Yu, C., Velu, A., Vinitsky, E., Gao, J., Wang, Y., Bayen, A., & Wu, Y. (2022). [The surprising effectiveness of ppo in cooperative multi-agent games](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9c1535a02f0ce079433344e14d910597-Abstract-Datasets_and_Benchmarks.html). _Advances in Neural Information Processing Systems_, 35, 24611-24624.
 
 ### Competitive setting
-- Bansal, T., Pachocki, J., Sidor, S., Sutskever, I., & Mordatch, I. (2018). [Emergent complexity via multi-agent competition](https://arxiv.org/abs/1710.03748). In _Proceedings of the 6th International Conference on Learning Representations (ICLR)_. [Code](https://github.com/openai/multiagent-competition)
+- Bansal, T., Pachocki, J., Sidor, S., Sutskever, I., & Mordatch, I. (2018). [Emergent complexity via multi-agent competition](https://arxiv.org/abs/1710.03748). In _Proceedings of the 6th International Conference on Learning Representations (ICLR)_. [\[Code\]](https://github.com/openai/multiagent-competition)
 
 ### TBD
 - Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
