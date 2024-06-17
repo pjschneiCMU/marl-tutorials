@@ -8,7 +8,7 @@ Multi-Agent Reinforcement Learning
 ### Algorithms
 - Lowe, R., Wu, Y. I., Tamar, A., Harb, J., Pieter Abbeel, O., & Mordatch, I. (2017). [Multi-agent actor-critic for mixed cooperative-competitive environments](https://papers.nips.cc/paper_files/paper/2017/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html). _Advances in Neural Information Processing Systems_, 30.
 > MADDPG
-- Iqbal, S. & Sha, F.. (2019). [Actor-attention-critic for multi-agent reinforcement learning](https://proceedings.mlr.press/v97/iqbal19a.html). In _Proceedings of the 36th International Conference on Machine Learning (ICML)_, (pp. 2961-2970).
+- Iqbal, S. & Sha, F.. (2019). [Actor-attention-critic for multi-agent reinforcement learning](https://proceedings.mlr.press/v97/iqbal19a.html). In _Proceedings of the 36th International Conference on Machine Learning (ICML)_ (pp. 2961-2970).
 
 
 
