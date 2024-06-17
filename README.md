@@ -8,5 +8,8 @@ Multi-Agent Reinforcement Learning
 ### TBD
 - Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
 - M. L. Littman. (1994). [Markov games as a framework for multi-agent reinforcement learning](https://doi.org/10.1016/B978-1-55860-335-6.50027-1). In _Proceedings of the 11th International Conference on Machine Learning (ICML)_ (pp. 157-163)
+- Fudenberg, D., & Levine, D. K. (1998). [_The theory of learning in games_](https://mitpress.mit.edu/9780262529242/the-theory-of-learning-in-games/) (Vol. 2). MIT Press, Cambridge, MA.
 - Hofbauer, J., & Sandholm, W. H. (2002). [On the global convergence of stochastic fictitious play](https://doi.org/10.1111/j.1468-0262.2002.00440.x). _Econometrica_, 70(6), 2265-2294.
 - Hu, J., & Wellman, M. P. (2003). [Nash Q-learning for general-sum stochastic games](https://www.jmlr.org/papers/volume4/hu03a/hu03a.pdf). _Journal of Machine Learning Research_, 4, 1039-1069.
+- Leslie, D. S., Perkins, S., & Xu, Z. (2020). [Best-response dynamics in zero-sum stochastic games](https://doi.org/10.1016/j.jet.2020.105095). _Journal of Economic Theory_, 189, 105095.
+- Sayin, M. O., Parise, F., & Ozdaglar, A. (2022). [Fictitious play in zero-sum stochastic games](https://doi.org/10.1137/21M1426675). _SIAM Journal on Control and Optimization_, 60(4), 2095-2114.
