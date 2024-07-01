@@ -29,6 +29,9 @@ Markov Games
 - Bansal, T., Pachocki, J., Sidor, S., Sutskever, I., & Mordatch, I. (2018). [Emergent complexity via multi-agent competition](https://openreview.net/pdf?id=Sy0GnUxCb). In _Proceedings of the 6th International Conference on Learning Representations (ICLR)_. [\[Code\]](https://github.com/openai/multiagent-competition)
 - Al-Shedivat, M., Bansal, T., Burda, Y., Sutskever, I., Mordatch, I., & Abbeel, P. (2018). [Continuous adaptation via meta-learning in nonstationary and competitive environments](https://openreview.net/pdf?id=Sk2u1g-0-). In _Proceedings of the 6th International Conference on Learning Representations (ICLR)_. [\[Code\]](https://github.com/openai/robosumo)
 
+### Learning strategies
+- Bengio, Y., Louradour, J., Collobert, R., & Weston, J. (2009). [Curriculum learning](https://doi.org/10.1145/1553374.1553380). In _Proceedings of the 26th International Conference on Machine Learning (ICML)_ (pp. 41-48).
+
 ### Learning zero-sum games
 - Loftin, R., Saha, A., Devlin, S., & Hofmann, K. (2021). [Strategically efficient exploration in competitive multi-agent reinforcement learning](https://proceedings.mlr.press/v161/loftin21a.html). In _Uncertainty in Artificial Intelligence_ (pp. 1587-1596).
 - Chen, J., Xu, Z., Li, Y., Yu, C., Song, J., Yang, H., Fang, F., Wang, Y., & Wu, Y. (2024). [Accelerate multi-agent reinforcement learning in zero-sum games with subgame curriculum learning](https://doi.org/10.1609/aaai.v38i10.29011). In _Proceedings of the AAAI Conference on Artificial Intelligence_, 38(10), 11320-11328.
