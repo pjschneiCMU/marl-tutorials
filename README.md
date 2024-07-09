@@ -10,8 +10,14 @@ Stochastic Games
 - Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
 - Mertens, J. F., & Neyman, A. (1981). [Stochastic games](https://doi.org/10.1007/BF01769259). _International Journal of Game Theory_, 10, 53-66.
 
+Bayesian Games
+- Harsanyi, J. C. (1967). [Games with incomplete information played by “Bayesian” players, I–III Part I. The basic model](https://doi.org/10.1287/mnsc.14.3.159). _Management Science_, 14(3), 159-182.
+
 Markov Games
 - M. L. Littman. (1994). [Markov games as a framework for multi-agent reinforcement learning](https://doi.org/10.1016/B978-1-55860-335-6.50027-1). In _Proceedings of the 11th International Conference on Machine Learning (ICML)_ (pp. 157-163).
+
+Robust Games
+- Aghassi, M., & Bertsimas, D. (2006). [Robust game theory](https://doi.org/10.1007/s10107-005-0686-0). _Mathematical Programming_, 107(1), 231-273.
 
 ### Surveys and Literature Reviews
 - Busoniu, L., Babuska, R., & De Schutter, B. (2008). [A comprehensive survey of multiagent reinforcement learning](https://doi.org/10.1109/TSMCC.2007.913919). _IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)_, 38(2), 156-172.
