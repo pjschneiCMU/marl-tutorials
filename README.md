@@ -103,7 +103,7 @@ Cooperative Games
 - Shapley, L. S. (1953). [A value for n-person games](https://doi.org/10.1515/9781400881970-018). In _Contributions to the Theory of Games_ (pp. 307-317).
 > Shapley introduced the Shapley value, a solution concept in cooperative game theory that is widely used in economics and political science.
 
-### Multi-Agent Reinforcement Literature
+### Multi-Agent Reinforcement Learning Literature
 
 ### Surveys and Literature Reviews
 - Busoniu, L., Babuska, R., & De Schutter, B. (2008). [A comprehensive survey of multiagent reinforcement learning](https://doi.org/10.1109/TSMCC.2007.913919). _IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)_, 38(2), 156-172.
