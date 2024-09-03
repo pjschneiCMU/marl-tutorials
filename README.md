@@ -59,7 +59,7 @@ This repository aims to provide tutorials on multi-agent reinforcement learning 
 ### Simultaneous-move Games
 Normal-form Games (Strategic-form Games)
 - Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
-> This book laid the foundation for normal-form games, introducing the basic structure for analyzing strategic interactions where players make decisions simultaneously.
+> This book established the foundations of normal-form games, providing a structure for analyzing strategic interactions where players make decisions simultaneously
 
 Bayesian Games
 - Harsanyi, J. C. (1967). [Games with incomplete information played by “Bayesian” players, I–III Part I. The basic model](https://doi.org/10.1287/mnsc.14.3.159). _Management Science_, 14(3), 159-182.
