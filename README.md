@@ -8,9 +8,9 @@ This repository aims to provide tutorials on multi-agent reinforcement learning 
 > [!NOTE]
 > Currently, the repository has a strong focus on game theory, which may eventually be moved to a separate GitHub repository.
 
-### Game Theory Literature
+## Game Theory Literature
 
-#### Key Questions for Modeling a Problem via Game Theory
+### Key Questions for Modeling a Problem via Game Theory
 
 - How many players are involved?
   
@@ -56,7 +56,7 @@ This repository aims to provide tutorials on multi-agent reinforcement learning 
 
   _Identifying the appropriate equilibrium concept (e.g., Nash, subgame perfect, Bayesian) is essential for predicting outcomes._
 
-#### Simultaneous-move Games
+### Simultaneous-move Games
 Normal-form Games (Strategic-form Games)
 - Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
 > This book laid the foundation for normal-form games, introducing the basic structure for analyzing strategic interactions where players make decisions simultaneously.
@@ -73,7 +73,7 @@ Robust Games
 - Aghassi, M., & Bertsimas, D. (2006). [Robust game theory](https://doi.org/10.1007/s10107-005-0686-0). _Mathematical Programming_, 107(1), 231-273.
 > This work extends game theory to account for uncertainty and robustness, providing tools for decision-making in uncertain environments.
 
-#### Sequential-move Games
+### Sequential-move Games
 
 Stackelberg Games
 - Stackelberg, H. V. (1934). [Marktform und Gleichgewicht](https://doi.org/10.1007/978-3-642-12586-7).
@@ -83,7 +83,7 @@ Extensive-form Games
 - Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
 > This book also introduced extensive-form games, providing a framework for analyzing games where the order of moves and the information available at each decision point are crucial.
 
-#### Games Involving Both Simultaneous and Sequential Moves
+### Games Involving Both Simultaneous and Sequential Moves
 Stochastic Games (Markov Games)
 - Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
 > Shapley’s work introduced stochastic games, which generalize Markov decision processes to multi-player settings with both simultaneous and sequential moves.
