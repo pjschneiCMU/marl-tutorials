@@ -1,9 +1,10 @@
-# marl-tutorials
-Multi-Agent Reinforcement Learning
+# Multi-Agent Reinforcement Learning (MARL)
 
-There exist multiple githubs providing literature resources:
-- [MARL-Papers](https://github.com/LantaoYu/MARL-Papers)
-- [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code)
+> Under development!
+
+This repository aims to provide tutorials on multi-agent reinforcement learning (MARL). Before diving into the modeling of multiple agents interacting through the Markov decision process (MDP) framework (introduced by Shapley in 1953), we first cover the basics of game theory and other fundamental concepts.
+
+> Currently, the repository has a strong focus on game theory, which may eventually be moved to a separate GitHub repository.
 
 ### Game Theory Literature
 
@@ -108,3 +109,7 @@ Cooperative Games
 - Daskalakis, C., Foster, D. J., & Golowich, N. (2020). [Independent policy gradient methods for competitive reinforcement learning](https://dl.acm.org/doi/pdf/10.5555/3495724.3496188). _Advances in Neural Information Processing Systems_, 33, 5527-5540.
 - Leslie, D. S., Perkins, S., & Xu, Z. (2020). [Best-response dynamics in zero-sum stochastic games](https://doi.org/10.1016/j.jet.2020.105095). _Journal of Economic Theory_, 189, 105095.
 - Sayin, M. O., Parise, F., & Ozdaglar, A. (2022). [Fictitious play in zero-sum stochastic games](https://doi.org/10.1137/21M1426675). _SIAM Journal on Control and Optimization_, 60(4), 2095-2114.
+
+There are multiple GitHub repositories providing literature resources purely focused on recent advancements in MARL research.
+- [MARL-Papers](https://github.com/LantaoYu/MARL-Papers)
+- [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code)
