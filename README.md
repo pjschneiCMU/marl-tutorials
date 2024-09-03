@@ -6,36 +6,73 @@ There exist multiple githubs providing literature resources:
 - [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code)
 
 ### Game Theory Literature
+
+#### Key Questions for Modeling a Problem via Game Theory
+- How many players are involved?
+> The number of players defines the game’s structure (e.g., two-player vs. multi-player) and influences the complexity of the analysis.
+- Are the actions available finite or infinite?
+> Determining whether the action space is finite or infinite affects the strategies players can adopt and the mathematical tools used for analysis.
+- Does the game evolve with simultaneous moves or sequential moves?
+> Identifying whether players act simultaneously or in sequence helps classify the game (e.g., normal-form vs. extensive-form) and influences strategy formulation.
+- Is the game static or dynamic?
+> A static game is played once, while a dynamic game unfolds over multiple periods. Dynamic games often require more complex strategies, like backward induction.
+- Is there complete or incomplete information?
+> Assessing whether players have full knowledge of the game's structure and payoffs is vital. Incomplete information often leads to Bayesian or signaling games.
+- Do players have private information (asymmetric information)?
+> If some players have private information, the game involves asymmetric information, leading to scenarios like adverse selection or moral hazard.
+- Are players cooperating or competing?
+> Understanding whether players work together (cooperative games) or compete (non-cooperative games) influences the modeling approach and solution concepts.
+- What is the payoff structure?
+> Analyzing how payoffs are determined—whether zero-sum, positive-sum, or involving externalities—is crucial for understanding incentives and outcomes.
+- Are players rational, and what level of rationality is assumed?
+> Assuming players act in their best interest, the level of rationality (e.g., bounded or perfect) assumed in the model can significantly affect predictions.
+- Is the game repeated, and how does repetition affect strategies?
+> In repeated games, strategies may evolve based on past interactions, potentially leading to cooperation in repeated settings (e.g., folk theorem).
+- How are equilibria defined, and which equilibrium concepts are applicable?
+> Identifying the appropriate equilibrium concept (e.g., Nash, subgame perfect, Bayesian) is essential for predicting outcomes.
+
 #### Simultaneous-move Games
 Normal-form Games (Strategic-form Games)
 - Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
+> This book laid the foundation for normal-form games, introducing the basic structure for analyzing strategic interactions where players make decisions simultaneously.
 
 Bayesian Games
 - Harsanyi, J. C. (1967). [Games with incomplete information played by “Bayesian” players, I–III Part I. The basic model](https://doi.org/10.1287/mnsc.14.3.159). _Management Science_, 14(3), 159-182.
+> Harsanyi’s work introduced Bayesian games, which extend normal-form games to situations of incomplete information, allowing players to form beliefs about unknown factors.
 
 Potential Games
 - Monderer, D., & Shapley, L. S. (1996). [Potential games](https://doi.org/10.1006/game.1996.0044). _Games and Economic Behavior_, 14(1), 124-143.
+> This paper defines potential games, a class of games where the incentive structure can be captured by a potential function, simplifying the analysis of equilibria.
 
 Robust Games
 - Aghassi, M., & Bertsimas, D. (2006). [Robust game theory](https://doi.org/10.1007/s10107-005-0686-0). _Mathematical Programming_, 107(1), 231-273.
+> This work extends game theory to account for uncertainty and robustness, providing tools for decision-making in uncertain environments.
 
 #### Sequential-move Games
 
 Stackelberg Games
 - Stackelberg, H. V. (1934). [Marktform und Gleichgewicht](https://doi.org/10.1007/978-3-642-12586-7).
+> Stackelberg introduced a model where leaders move first and followers react, which is fundamental in analyzing competitive markets and leadership dynamics in sequential games.
 
 Extensive-form Games
 - Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
+> This book also introduced extensive-form games, providing a framework for analyzing games where the order of moves and the information available at each decision point are crucial.
 
 #### Games Involving Both Simultaneous and Sequential Moves
 Stochastic Games (Markov Games)
 - Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
+> Shapley’s work introduced stochastic games, which generalize Markov decision processes to multi-player settings with both simultaneous and sequential moves.
 - M. L. Littman. (1994). [Markov games as a framework for multi-agent reinforcement learning](https://doi.org/10.1016/B978-1-55860-335-6.50027-1). In _Proceedings of the 11th International Conference on Machine Learning (ICML)_ (pp. 157-163).
-> 
+> Littman introduced Minimax-Q learning and extended the concept of stochastic games into the realm of multi-agent reinforcement learning, emphasizing their application in AI and dynamic environments.
 
 #### Special Forms
+Evolutionary Game Theory
+- Smith, J. M., & Price, G. R. (1973). [The logic of animal conflict](https://doi.org/10.1038/246015a0). _Nature_, 246(5427), 15-18.
+> This paper introduced the concept of evolutionary stable strategies, a cornerstone of evolutionary game theory.
+
 Repeated Games
 - Fudenberg, D., & Maskin, E. (1986). [The folk theorem in repeated games with discounting or with incomplete information](https://doi.org/10.2307/1911307). _Econometrica_, 54(3), 533–554.
+> This work is key in the theory of repeated games, explaining how cooperation can be sustained over time in strategic settings.
 
 Cooperative Games
 - Shapley, L. S. (1953). [A value for n-person games](https://doi.org/10.1515/9781400881970-018). In _Contributions to the Theory of Games_ (pp. 307-317).
