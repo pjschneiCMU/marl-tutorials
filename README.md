@@ -5,6 +5,7 @@
 
 This repository aims to provide tutorials on multi-agent reinforcement learning (MARL). Before diving into the modeling of multiple agents interacting through the Markov decision process (MDP) framework (introduced by Shapley in 1953), we first cover the basics of game theory and other fundamental concepts.
 
+> [!NOTE]
 > Currently, the repository has a strong focus on game theory, which may eventually be moved to a separate GitHub repository.
 
 ### Game Theory Literature
@@ -15,7 +16,7 @@ This repository aims to provide tutorials on multi-agent reinforcement learning 
   *The number of players defines the game’s structure (e.g., two-player vs. multi-player) and influences the complexity of the analysis.*
 
 - **Are the actions available finite or infinite?**  
-  *Determining whether the action space is finite or infinite affects the strategies players can adopt and the mathematical tools used for analysis.*
+  _Determining whether the action space is finite or infinite affects the strategies players can adopt and the mathematical tools used for analysis._
 
 - **Does the game evolve with simultaneous moves or sequential moves?**  
   *Identifying whether players act simultaneously or in sequence helps classify the game (e.g., normal-form vs. extensive-form) and influences strategy formulation.*
