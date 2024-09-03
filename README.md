@@ -14,28 +14,47 @@ This repository aims to provide tutorials on multi-agent reinforcement learning 
 
 - How many players are involved?
   
-  The number of players defines the game’s structure (e.g., two-player vs. multi-player) and influences the complexity of the analysis._
+  _The number of players defines the game’s structure (e.g., two-player vs. multi-player) and influences the complexity of the analysis._
 
 - Are the actions available finite or infinite?
-> Determining whether the action space is finite or infinite affects the strategies players can adopt and the mathematical tools used for analysis.
+
+  _Determining whether the action space is finite or infinite affects the strategies players can adopt and the mathematical tools used for analysis._
+  
 - Does the game evolve with simultaneous moves or sequential moves?
-> Identifying whether players act simultaneously or in sequence helps classify the game (e.g., normal-form vs. extensive-form) and influences strategy formulation.
+
+  _Identifying whether players act simultaneously or in sequence helps classify the game (e.g., normal-form vs. extensive-form) and influences strategy formulation._
+
 - Is the game static or dynamic?
-> A static game is played once, while a dynamic game unfolds over multiple periods. Dynamic games often require more complex strategies, like backward induction.
+  
+  _A static game is played once, while a dynamic game unfolds over multiple periods. Dynamic games often require more complex strategies, like backward induction._
+
 - Is there complete or incomplete information?
-> Assessing whether players have full knowledge of the game's structure and payoffs is vital. Incomplete information often leads to Bayesian or signaling games.
+
+  _Assessing whether players have full knowledge of the game's structure and payoffs is vital. Incomplete information often leads to Bayesian or signaling games._
+
 - Do players have private information (asymmetric information)?
-> If some players have private information, the game involves asymmetric information, leading to scenarios like adverse selection or moral hazard.
+
+  _If some players have private information, the game involves asymmetric information, leading to scenarios like adverse selection or moral hazard._
+
 - Are players cooperating or competing?
-> Understanding whether players work together (cooperative games) or compete (non-cooperative games) influences the modeling approach and solution concepts.
+
+  _Understanding whether players work together (cooperative games) or compete (non-cooperative games) influences the modeling approach and solution concepts._
+
 - What is the payoff structure?
-> Analyzing how payoffs are determined—whether zero-sum, positive-sum, or involving externalities—is crucial for understanding incentives and outcomes.
+
+  _Analyzing how payoffs are determined—whether zero-sum, positive-sum, or involving externalities—is crucial for understanding incentives and outcomes._
+
 - Are players rational, and what level of rationality is assumed?
-> Assuming players act in their best interest, the level of rationality (e.g., bounded or perfect) assumed in the model can significantly affect predictions.
+
+  _Assuming players act in their best interest, the level of rationality (e.g., bounded or perfect) assumed in the model can significantly affect predictions._
+
 - Is the game repeated, and how does repetition affect strategies?
-> In repeated games, strategies may evolve based on past interactions, potentially leading to cooperation in repeated settings (e.g., folk theorem).
+
+  _In repeated games, strategies may evolve based on past interactions, potentially leading to cooperation in repeated settings (e.g., folk theorem)._
+
 - How are equilibria defined, and which equilibrium concepts are applicable?
-> Identifying the appropriate equilibrium concept (e.g., Nash, subgame perfect, Bayesian) is essential for predicting outcomes.
+
+  _Identifying the appropriate equilibrium concept (e.g., Nash, subgame perfect, Bayesian) is essential for predicting outcomes._
 
 #### Simultaneous-move Games
 Normal-form Games (Strategic-form Games)
