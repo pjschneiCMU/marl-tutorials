@@ -6,7 +6,8 @@ There exist multiple githubs providing literature resources:
 - [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code)
 
 ### Game Theory Literature
->>The following games consider simultaneous-move games
+>The following games consider simultaneous-move games
+
 Stochastic Games
 - Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
 - Mertens, J. F., & Neyman, A. (1981). [Stochastic games](https://doi.org/10.1007/BF01769259). _International Journal of Game Theory_, 10, 53-66.
@@ -23,7 +24,8 @@ Potential Games
 Robust Games
 - Aghassi, M., & Bertsimas, D. (2006). [Robust game theory](https://doi.org/10.1007/s10107-005-0686-0). _Mathematical Programming_, 107(1), 231-273.
 
->>The following games are sequential-move games:
+>The following games are sequential-move games:
+
 Stackelberg Games
 - Stackelberg, H. V. (1934). [Marktform und Gleichgewicht](https://doi.org/10.1007/978-3-642-12586-7).
 
