@@ -10,8 +10,7 @@ This repository aims to provide tutorials on multi-agent reinforcement learning 
 ### Game Theory Literature
 
 #### Key Questions for Modeling a Problem via Game Theory
-- How many players are involved?
-> The number of players defines the game’s structure (e.g., two-player vs. multi-player) and influences the complexity of the analysis.
+- How many players are involved? > The number of players defines the game’s structure (e.g., two-player vs. multi-player) and influences the complexity of the analysis.
 - Are the actions available finite or infinite?
 > Determining whether the action space is finite or infinite affects the strategies players can adopt and the mathematical tools used for analysis.
 - Does the game evolve with simultaneous moves or sequential moves?
