@@ -6,17 +6,12 @@ There exist multiple githubs providing literature resources:
 - [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code)
 
 ### Game Theory Literature
->The following games consider simultaneous-move games
-
-Stochastic Games
-- Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
-- Mertens, J. F., & Neyman, A. (1981). [Stochastic games](https://doi.org/10.1007/BF01769259). _International Journal of Game Theory_, 10, 53-66.
+#### Simultaneous-move Games
+Normal-form Games (Strategic-form Games)
+- Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
 
 Bayesian Games
 - Harsanyi, J. C. (1967). [Games with incomplete information played by “Bayesian” players, I–III Part I. The basic model](https://doi.org/10.1287/mnsc.14.3.159). _Management Science_, 14(3), 159-182.
-
-Markov Games
-- M. L. Littman. (1994). [Markov games as a framework for multi-agent reinforcement learning](https://doi.org/10.1016/B978-1-55860-335-6.50027-1). In _Proceedings of the 11th International Conference on Machine Learning (ICML)_ (pp. 157-163).
 
 Potential Games
 - Monderer, D., & Shapley, L. S. (1996). [Potential games](https://doi.org/10.1006/game.1996.0044). _Games and Economic Behavior_, 14(1), 124-143.
@@ -24,13 +19,27 @@ Potential Games
 Robust Games
 - Aghassi, M., & Bertsimas, D. (2006). [Robust game theory](https://doi.org/10.1007/s10107-005-0686-0). _Mathematical Programming_, 107(1), 231-273.
 
->The following games are sequential-move games:
+#### Sequential-move Games
 
 Stackelberg Games
 - Stackelberg, H. V. (1934). [Marktform und Gleichgewicht](https://doi.org/10.1007/978-3-642-12586-7).
 
-Extensive Form Games
-Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
+Extensive-form Games
+- Von Neumann, J., & Morgenstern, O. (1944). Theory of games and economic behavior. Princeton University Press.
+
+#### Games Involving Both Simultaneous and Sequential Moves
+Stochastic Games (Markov Games)
+- Shapley, L. S. (1953). [Stochastic games](https://doi.org/10.1073/pnas.39.10.1095). _Proceedings of the National Academy of Sciences_, 39(10), 1095-1100.
+- M. L. Littman. (1994). [Markov games as a framework for multi-agent reinforcement learning](https://doi.org/10.1016/B978-1-55860-335-6.50027-1). In _Proceedings of the 11th International Conference on Machine Learning (ICML)_ (pp. 157-163).
+> 
+
+#### Special Forms
+Repeated Games
+- Fudenberg, D., & Maskin, E. (1986). [The folk theorem in repeated games with discounting or with incomplete information](https://doi.org/10.2307/1911307). _Econometrica_, 54(3), 533–554.
+
+Cooperative Games
+- Shapley, L. S. (1953). [A value for n-person games](https://doi.org/10.1515/9781400881970-018). In _Contributions to the Theory of Games_ (pp. 307-317).
+> Shapley introduced the Shapley value, a solution concept in cooperative game theory that is widely used in economics and political science.
 
 ### Surveys and Literature Reviews
 - Busoniu, L., Babuska, R., & De Schutter, B. (2008). [A comprehensive survey of multiagent reinforcement learning](https://doi.org/10.1109/TSMCC.2007.913919). _IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)_, 38(2), 156-172.
