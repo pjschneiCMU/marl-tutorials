@@ -103,6 +103,28 @@ Cooperative Games
 - Shapley, L. S. (1953). [A value for n-person games](https://doi.org/10.1515/9781400881970-018). In _Contributions to the Theory of Games_ (pp. 307-317).
 > Shapley introduced the Shapley value, a solution concept in cooperative game theory that is widely used in economics and political science.
 
+### Game Theory - Theory Bascis
+
+#### Equilibrium Concepts
+Nash Equilibrium
+- Nash Jr, J. F. (1950). Equilibrium points in n-person games. _Proceedings of the National Academy of Sciences_, 36(1), 48-49.
+> This foundational paper introduced the concept of Nash equilibrium and proved that in every finite game with a finite number of players, there exists at least one Nash equilibrium in mixed strategies.
+
+Correlated Equilibrium
+- Aumann, R. J. (1974). [Subjectivity and correlation in randomized strategies](https://doi.org/10.1016/0304-4068(74)90037-8). _Journal of Mathematical Economics_, 1(1), 67-96.
+> This paper introduced the concept of correlated equilibrium, where players can coordinate their strategies based on shared random signals, generalizing Nash equilibrium.
+- Aumann, R. J. (1987). [Correlated equilibrium as an expression of Bayesian rationality](https://doi.org/10.2307/1911154). _Econometrica_, 55(1), 1-18.
+> This paper formalizes correlated equilibrium in the context of Bayesian rationality, showing how players' beliefs and strategies can be aligned through common signals.
+
+Coarse Correlated Equilibrium
+- Moulin, H., & Vial, J. P. (1978). [Strategically zero-sum games: The class of games whose completely mixed equilibria cannot be improved upon](https://doi.org/10.1007/BF01769190). _International Journal of Game Theory_, 7, 201-221.
+> This paper explores coarse correlated equilibrium, a generalization of correlated equilibrium where players evaluate their expected payoffs before seeing the signal, highlighting strategic considerations in games.
+
+#### Fixed Point Theorems
+- Brouwer, L. E. J. (1911). [Über Abbildung von Mannigfaltigkeiten](https://doi.org/10.1007/BF01456931). _Mathematische Annalen_, 71(1), 97-115.
+> This classic result in topology proves that any continuous function from a compact convex set to itself has at least one fixed point, forming the mathematical foundation for proving the existence of Nash equilibria.
+- Kakutani, S. (1941). [A generalization of Brouwer’s fixed point theorem](https://doi.org/10.1215/S0012-7094-41-00838-4). _Duke Mathematical Journal_, 8(3), 457-459.
+> Kakutani's theorem extends Brouwer’s theorem to set-valued (multi-valued) functions and is a crucial tool for proving the existence of Nash equilibria in games with mixed strategies.
 
 ## Multi-Agent Reinforcement Learning Literature
 
